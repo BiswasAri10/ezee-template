@@ -52,12 +52,7 @@ Author URI : http://www.wpfreeware.com/
   color: #12ad2b;
 }
 .navbar-default {
-  background: rgb(227, 239, 72);
-  background: linear-gradient(
-    90deg,
-    rgba(227, 239, 72, 1) 0%,
-    rgba(154, 245, 123, 1) 83%
-  );
+  background-color: #bff766;
   border-color: #12ad2b;
 }
 .navbar-default .navbar-nav > .active > a,

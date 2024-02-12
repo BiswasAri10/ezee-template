@@ -305,7 +305,7 @@ img {
 #sliderArea {
   display: inline;
   float: left;
-  margin-top: 90px;
+  margin-top: 70px;
   width: 100%;
 }
 .top-slider {
@@ -525,6 +525,9 @@ img {
   float: left;
   display: inline;
   width: 100%;
+  border: 1px solid green;
+  background-color: #bff766;
+  
 }
 .single-top-feature {
   float: left;
@@ -532,6 +535,7 @@ img {
   width: 100%;
   text-align: center;
   padding: 20px 30px;
+  background: none;
 }
 .single-top-feature > span {
   color: #fff;
@@ -553,6 +557,7 @@ img {
 }
 .single-top-feature .readmore_area a span {
   background: #fff none repeat scroll 0 0;
+  border: 1px solid green;
 }
 .single-top-feature .readmore_area a {
   border: 2px solid #fff;
@@ -575,7 +580,7 @@ img {
 }
 .opening-table li {
   border-bottom: 1px solid #f1f1f2;
-  line-height: 30px;
+  line-height: 20px;
   margin: 0 15px;
   padding: 5px 0;
   color: #000;
@@ -598,7 +603,7 @@ img {
   float: left;
   display: inline;
   width: 100%;
-  padding: 40px 0px;
+  padding: 20px 0px;
 }
 .service-area {
   float: left;
