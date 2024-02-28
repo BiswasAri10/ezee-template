@@ -771,7 +771,7 @@ img {
   float: left;
   display: inline;
   width: 100%;
-  padding: 75px 0px;
+  padding: 40px 0px;
 }
 .whyChoose-left {
   display: inline;
@@ -2219,6 +2219,12 @@ figure.blog-figure:hover .image-effect::before {
 .form-submit input:hover {
   background-color: #fff;
 }
+
+
+/*--------------------*/
+/* Why Ezee Fertility */
+/*--------------------*/
+
 
 /*--------------------*/
 /* Features */
